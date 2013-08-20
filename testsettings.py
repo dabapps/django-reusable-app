@@ -8,3 +8,6 @@ DATABASES = {
 INSTALLED_APPS = (
     'myproject',
 )
+
+
+SECRET_KEY = 'abcde12345'
