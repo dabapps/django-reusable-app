@@ -5,6 +5,9 @@ Django Reusable Apps
 
 **Author:** Tom Christie, [Follow me on Twitter][1].
 
+## DEPRECATED
+**PLEASE NOTE:** _This repository is no longer actively maintained or regularly used by DabApps and therefore should be considered deprecated. Please find alternative packages for your needs or feel free to create and maintain your own fork._
+
 Overview
 ========
 
